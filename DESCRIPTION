@@ -5,6 +5,7 @@ Version: 1.3.4.9000
 Authors@R: c(
     person('Hao', 'Zhu', email = 'haozhu233@gmail.com', role = c('aut', 'cre'),
     comment = c(ORCID = '0000-0002-3386-6076')),
+    person('Kevin', 'Crouse', email = 'kevin.crouse@phila.gov', role = 'ctb'),
     person('Thomas', 'Travison', role = 'ctb'),
     person('Timothy', 'Tsai', role = 'ctb'),
     person('Will', 'Beasley', email = 'wibeasley@hotmail.com', role = 'ctb'),
